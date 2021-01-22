@@ -1,0 +1,50 @@
+2021-01-22 01:14:22,850 - app.py:276 - func: [app] - debug: hello
+2021-01-22 01:14:22,850 - app.py:277 - func: [app] - info: hello
+2021-01-22 01:14:22,850 - app.py:278 - func: [app] - warning: hello
+2021-01-22 01:14:22,851 - app.py:279 - func: [app] - error: hello
+2021-01-22 01:14:22,851 - app.py:280 - func: [app] - critical: hello
+2021-01-22 01:14:22,851 - app.py:286 - func: [app] - Test Exception
+Traceback (most recent call last):
+  File "D:\鰾單等\Python_project\Python_project\app.py", line 284, in hello_world
+    raise ValueError("Test Exception")
+ValueError: Test Exception
+2021-01-22 01:15:35,456 - app.py:276 - func: [app] - debug: hello
+2021-01-22 01:15:35,457 - app.py:277 - func: [app] - info: hello
+2021-01-22 01:15:35,457 - app.py:278 - func: [app] - warning: hello
+2021-01-22 01:15:35,457 - app.py:279 - func: [app] - error: hello
+2021-01-22 01:15:35,457 - app.py:280 - func: [app] - critical: hello
+2021-01-22 01:15:35,457 - app.py:286 - func: [app] - Test Exception
+Traceback (most recent call last):
+  File "D:\鰾單等\Python_project\Python_project\app.py", line 284, in hello_world
+    raise ValueError("Test Exception")
+ValueError: Test Exception
+2021-01-22 01:15:36,678 - app.py:276 - func: [app] - debug: hello
+2021-01-22 01:15:36,678 - app.py:277 - func: [app] - info: hello
+2021-01-22 01:15:36,678 - app.py:278 - func: [app] - warning: hello
+2021-01-22 01:15:36,678 - app.py:279 - func: [app] - error: hello
+2021-01-22 01:15:36,679 - app.py:280 - func: [app] - critical: hello
+2021-01-22 01:15:36,679 - app.py:286 - func: [app] - Test Exception
+Traceback (most recent call last):
+  File "D:\鰾單等\Python_project\Python_project\app.py", line 284, in hello_world
+    raise ValueError("Test Exception")
+ValueError: Test Exception
+2021-01-22 01:15:54,231 - app.py:276 - func: [app] - debug: hello
+2021-01-22 01:15:54,232 - app.py:277 - func: [app] - info: hello
+2021-01-22 01:15:54,232 - app.py:278 - func: [app] - warning: hello
+2021-01-22 01:15:54,233 - app.py:279 - func: [app] - error: hello
+2021-01-22 01:15:54,233 - app.py:280 - func: [app] - critical: hello
+2021-01-22 01:15:54,233 - app.py:286 - func: [app] - Test Exception
+Traceback (most recent call last):
+  File "D:\鰾單等\Python_project\Python_project\app.py", line 284, in hello_world
+    raise ValueError("Test Exception")
+ValueError: Test Exception
+2021-01-22 01:16:07,549 - app.py:276 - func: [app] - debug: hello
+2021-01-22 01:16:07,549 - app.py:277 - func: [app] - info: hello
+2021-01-22 01:16:07,550 - app.py:278 - func: [app] - warning: hello
+2021-01-22 01:16:07,550 - app.py:279 - func: [app] - error: hello
+2021-01-22 01:16:07,551 - app.py:280 - func: [app] - critical: hello
+2021-01-22 01:16:07,551 - app.py:286 - func: [app] - Test Exception
+Traceback (most recent call last):
+  File "D:\鰾單等\Python_project\Python_project\app.py", line 284, in hello_world
+    raise ValueError("Test Exception")
+ValueError: Test Exception
